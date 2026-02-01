@@ -12,5 +12,7 @@ public class SquareCube {
         cube = a * a * a;
 
         System.out.println("Square = " + sqr +  " Cube = " + cube);
+
+        sc.close();
     }
 }

@@ -16,5 +16,7 @@ public class ProductOfSumDiff {
 
         product = sum * diff;
         System.out.println(product);
+
+        sc.close();
     }    
 }

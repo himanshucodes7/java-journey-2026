@@ -12,5 +12,7 @@ public class ShirtPrice {
 
     int totalPrice = N * shirtCost;
     System.out.println("Total price of shirt = " + totalPrice);
+
+    sc.close();
     }
 }
